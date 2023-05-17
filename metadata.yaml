@@ -1,0 +1,40 @@
+_repo: The-attache-at-Peking_70467
+_version: 0.0.1
+alternative_title: The attache at Peking
+creator:
+  author:
+    agent_name: Redesdale, Algernon Bertram Freeman-Mitford, Baron
+    aliases:
+    - Mitford, Algernon Bertram
+    - Freeman-Mitford, Algernon Bertram
+    birthdate: 1837
+    deathdate: 1916
+    gutenberg_agent_id: '4779'
+    url: http://www.gutenberg.org/2009/agents/4779
+    wikipedia: https://en.wikipedia.org/wiki/Algernon_Bertram_Freeman-Mitford,_1st_Baron_Redesdale
+description: ''
+gutenberg_issued: '2023-04-05'
+identifiers:
+  gutenberg: '70467'
+  lccn: '01001442'
+language: en
+pgterms:marc904: https://archive.org/details/attachatpeking00rede
+pgterms:marc905: 20200627063229freemanmit
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: MWS, Quentin Campbell, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel'
+- !lcsh 'Redesdale, Algernon Bertram Freeman-Mitford, Baron, 1837-1916 -- Travel --
+  China'
+- !lcsh 'China -- Politics and government -- 19th century'
+- !lcc 'DS'
+- GITenberg
+title: The attaché at Peking
+url: http://www.gutenberg.org/ebooks/70467
