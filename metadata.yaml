@@ -1,6 +1,9 @@
 _repo: The-attache-at-Peking_70467
 _version: 0.1.0
 alternative_title: The attache at Peking
+covers:
+- cover_type: archival
+  image_path: 70467-h/images/cover.jpg
 creator:
   author:
     agent_name: Redesdale, Algernon Bertram Freeman-Mitford, Baron
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4779
     wikipedia: https://en.wikipedia.org/wiki/Algernon_Bertram_Freeman-Mitford,_1st_Baron_Redesdale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70467#The-attache-at-Peking
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70467'
